@@ -1,0 +1,6 @@
+[submodule "git-submodules/ginac"]
+	path = git-submodules/ginac
+	url = git://ginac.de/ginac.git
+[submodule "git-submodules/cln"]
+	path = git-submodules/cln
+	url = git://ginac.de/cln.git
