@@ -3,4 +3,4 @@
 	url = git://ginac.de/ginac.git
 [submodule "git-submodules/cln"]
 	path = git-submodules/cln
-	url = git://ginac.de/cln.git
+	url = git://github.com/asheplyakov/cln.git
